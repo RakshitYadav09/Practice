@@ -23,11 +23,7 @@ def findDistinct(arr):
             
     return res
 
-if __name__ == "__main__":
-    arr = [12, 10, 9, 45, 2, 10, 12, 45, 11]
-    res = findDistinct(arr)
-    for val in res:
-        print(val, end=" ")
+
         
         
     

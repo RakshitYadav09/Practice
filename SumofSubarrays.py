@@ -8,7 +8,3 @@ def SubArraySum(arr, n):
             res += temp
     return res
 
-# Driver code
-arr = [1, 2, 3]
-n = len(arr)
-print("Sum:", SubArraySum(arr, n))
